@@ -20,6 +20,9 @@
     <a href="https://leetcode.com/mojgankh/">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <a href="https://jovian.com/mojgan-khoshchehreh">
+        <img src="https://img.shields.io/badge/Jovian-blue?style=flat-square&logo=Jovian" alt="LeetCode">
+    </a>
 </p>
 
 ### Languages
