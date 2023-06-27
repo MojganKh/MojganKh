@@ -21,7 +21,8 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
     <a href="https://jovian.com/mojgan-khoshchehreh">
-        <img src="https://img.shields.io/badge/Jovian-blue?style=flat-square&logo=Jovian" alt="LeetCode">
+       <!-- <img src="https://img.shields.io/badge/Jovian-blue?style=flat-square&logo=Jovian" alt="Jovian"> -->
+       <img src="https://jovian.com/jovian_logo.svg" alt="Jovian">
     </a>
 </p>
 
