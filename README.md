@@ -35,6 +35,8 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/MojganKh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/MojganKh)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MojganKh)
+[![SAP ABAP NetWeaver® 7.50](https://img.shields.io/badge/sap-black?style=for-the-badge&logo=sap)](https://github.com/MojganKh)
+
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/MojganKh)
