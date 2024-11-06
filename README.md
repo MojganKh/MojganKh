@@ -5,8 +5,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
       I'm Mojgan<br>
-      I am an interested programmer who works solving his life challanges by coding them.<br>
-      Problems are made to be solved, and I have my own techniques, but it does not matter as long sas it works!<br>
+      I am an interested programmer who works solving his life challenges by coding them.<br>
+      Problems are made to be solved, and I have my own techniques, but it does not matter as long as it works!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/mojgan-khoshchehreh-a21ab867/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -27,6 +27,7 @@
 </p>
 
 ### Languages
+[![SAP ABAP NetWeaver® 7.50](https://img.shields.io/badge/sap-abap-black?style=for-the-badge&logo=sap)](https://github.com/MojganKh)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MojganKh)
 [![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=MATLAB)](https://github.com/MojganKh)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MojganKh)
@@ -35,8 +36,6 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/MojganKh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/MojganKh)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MojganKh)
-[![SAP ABAP NetWeaver® 7.50](https://img.shields.io/badge/sap-abap-black?style=for-the-badge&logo=sap)](https://github.com/MojganKh)
-
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/MojganKh)
